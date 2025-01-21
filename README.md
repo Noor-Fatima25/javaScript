@@ -1,2 +1,2 @@
 # javaScript
-A code repo for everything I am going to learn in javaScript
+A code repository for everything I am learning in javaScript
