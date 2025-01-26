@@ -60,12 +60,12 @@ const userList = [
 
 // Object with destructuring
 const courseDetails = {
-    courseName: "JavaScript in Hindi", // Name of the course
-    price: "999", // Price of the course
-    courseInstructor: "Nono" // Instructor of the course
+    courseName: "JavaScript", 
+    price: "20000", 
+    courseInstructor: "Nono" 
 };
 
 // Destructuring with renaming
 const { courseInstructor: instructor } = courseDetails;
 
-// console.log(instructor); // Access the instructor name using the destructured variable
+console.log(instructor); // Access the instructor name using the destructured variable
